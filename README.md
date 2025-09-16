@@ -3,4 +3,4 @@ Code snippet to make positional encodings inversion invariant for biological seq
 
 For example, AAAKLM and MLKAAA are two different strings but the same peptide in physical space.
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/62acc643-b06f-4cba-835b-3cca18dd1a27" />
+<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/62acc643-b06f-4cba-835b-3cca18dd1a27" />
